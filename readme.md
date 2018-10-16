@@ -5,8 +5,9 @@ A simple and basic OXID 6 module.
 
 `composer require linslin/oxid6-example-module:dev-master`
 
-## For developing with a local copy which is not registered
+
 ## Add to root composer.json
+For developing with a local copy which is not registered
 
     "repositories": [
         {
